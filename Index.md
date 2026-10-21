@@ -82,7 +82,9 @@ This privacy policy may be updated as KeyMoto develops or if its use of data cha
 
 ## Contact
 
-Pete Keys pete@pipandpete.com
 For questions about KeyMoto or this privacy policy, contact:
+
+Pete Keys pete@pipandpete.com
+
 
 YOUR EMAIL ADDRESS
